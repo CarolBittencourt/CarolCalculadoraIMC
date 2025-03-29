@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do Projeto -->
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+    <!-- Tela 1 INICIO - String do Projeto -->
+    <string name="appT1Titulo">CALCULADORA DE IMC</string>
+    <string name="appT1Resultado">Resultado</string>
+    <string name="appT1BtnSet">Calcular IMC</string>
+    <string name="appT1BtnReset">Fechar</string>
+
+    <!-- Tela 2 CALCULO IMC - String do Projeto -->
+    <string name="appT2Titulo">CÁLCULO DE IMC</string>
+    <string name="appT2Peso">Peso</string>
+    <string name="appT2Altura">Altura</string>
+    <string name="appT2BtnSet">Próxima</string>
+    <string name="appT2BtnReset">Fechar</string>
+    <string name="appT2BtnCalcular">Calcular</string>
+    <string name="appT2BtnLimpar">Limpar</string>
+
+    <!-- Tela 3 ABAIXO DO PESO - String do Projeto -->
+    <string name="appT3Titulo">TELA 3</string>
+    <string name="appT3IMC">IMC</string>
+    <string name="appT3ValorPeso">-----</string>
+    <string name="appT3ValorAltura">-----</string>
+    <string name="appT3ClassificacaoUser">ABAIXO DO PESO</string>
+    <string name="appT3FrasePositiva">Cuide-se com carinho! Seu corpo merece equilíbrio e saúde.</string>
+    <string name="appT3BtnSet">Próxima</string>
+    <string name="appT3BtnReset">Fechar</string>
+    <string name="appT3BtnLimpar">Limpar</string>
+
+    <!-- Tela 4 PESO NORMAL - String do Projeto -->
+    <string name="appT4Titulo">TELA 3</string>
+    <string name="appT4IMC">IMC</string>
+    <string name="appT4ValorPeso">-----</string>
+    <string name="appT4ValorAltura">-----</string>
+    <string name="appT4ClassificacaoUser">PESO NORMAL</string>
+    <string name="appT4FrasePositiva">Você está no caminho certo! Continue com hábitos saudáveis.</string>
+    <string name="appT4BtnSet">Próxima</string>
+    <string name="appT4BtnReset">Fechar</string>
+    <string name="appT4BtnLimpar">Limpar</string>
+
+    <!-- Tela 5 SOBREPESO - String do Projeto -->
+    <string name="appT5Titulo">TELA 3</string>
+    <string name="appT5IMC">IMC</string>
+    <string name="appT5ValorPeso">-----</string>
+    <string name="appT5ValorAltura">-----</string>
+    <string name="appT5ClassificacaoUser">SOBREPESO</string>
+    <string name="appT5FrasePositiva">Pequenos passos levam a grandes mudanças. Você consegue!</string>
+    <string name="appT5BtnSet">Próxima</string>
+    <string name="appT5BtnReset">Fechar</string>
+    <string name="appT5BtnLimpar">Limpar</string>
+
+    <!-- Tela 6 OBESIDADE GRAU 1 - String do Projeto -->
+    <string name="appT6Titulo">TELA 3</string>
+    <string name="appT6IMC">IMC</string>
+    <string name="appT6ValorPeso">-----</string>
+    <string name="appT6ValorAltura">-----</string>
+    <string name="appT6ClassificacaoUser">OBESIDADE GRAU 1</string>
+    <string name="appT6FrasePositiva">Seu bem-estar começa com uma escolha. Vá em frente!</string>
+    <string name="appT6BtnSet">Próxima</string>
+    <string name="appT6BtnReset">Fechar</string>
+    <string name="appT6BtnLimpar">Limpar</string>
+
+    <!-- Tela 7 OBESIDADE GRAU 2 - String do Projeto -->
+    <string name="appT7Titulo">TELA 3</string>
+    <string name="appT7IMC">IMC</string>
+    <string name="appT7ValorPeso">-----</string>
+    <string name="appT7ValorAltura">-----</string>
+    <string name="appT7ClassificacaoUser">OBESIDADE GRAU 2</string>
+    <string name="appT7FrasePositiva">Cada atitude conta. Acredite no seu progresso!</string>
+    <string name="appT7BtnSet">Próxima</string>
+    <string name="appT7BtnReset">Fechar</string>
+    <string name="appT7BtnLimpar">Limpar</string>
+
+    <!-- Tela 8 OBESIDADE GRAU 3 - String do Projeto -->
+    <string name="appT8Titulo">TELA 3</string>
+    <string name="appT8IMC">IMC</string>
+    <string name="appT8ValorPeso">-----</string>
+    <string name="appT8ValorAltura">-----</string>
+    <string name="appT8ClassificacaoUser">OBESIDADE GRAU 3</string>
+    <string name="appT8FrasePositiva">Toda mudança começa com um passo. Você é capaz!</string>
+    <string name="appT8BtnSet">Próxima</string>
+    <string name="appT8BtnReset">Fechar</string>
+    <string name="appT8BtnLimpar">Limpar</string>
+
+</resources>
